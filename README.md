@@ -1,7 +1,5 @@
 # SystemBootInfo
 
-# System Boot Info
-
 ⚠ **Warning:** This application must be run as **Administrator** to correctly fetch boot duration.  
 ⚠ Executable location: `dist/main.exe`
 
