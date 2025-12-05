@@ -39,3 +39,7 @@ Run the executable:
 
 ```powershell
 dist\main.exe
+Or, if you want to run the Python script directly (Python 3.12+ required):
+
+powershell
+python main.py
